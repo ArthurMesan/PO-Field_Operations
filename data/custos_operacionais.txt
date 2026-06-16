@@ -1,0 +1,19 @@
+# Custos de operação dinâmicos (h_i) extraídos da API do Google
+# Inclui custo de combustível e fração do salário do motorista pelo tempo de trânsito.
+h = [123.55, 59.0, 86.98, 48.44, 18.7, 46.53, 50.25, 39.06, 24.84, 67.64, 63.39, 73.12, 44.12, 43.86]
+
+# Referência de Regiões (apenas para conferência):
+# Barreiro: R$ 123.55
+# Centro-Sul: R$ 59.00
+# Leste: R$ 86.98
+# Nordeste: R$ 48.44
+# Pampulha: R$ 18.70
+# Venda Nova: R$ 46.53
+# Padre Eustáquio: R$ 50.25
+# Castelo: R$ 39.06
+# Bairro Ouro Preto: R$ 24.84
+# Balneário da Ressaca: R$ 67.64
+# Nacional: R$ 63.39
+# Santa Luzia: R$ 73.12
+# Planalto: R$ 44.12
+# União: R$ 43.86
